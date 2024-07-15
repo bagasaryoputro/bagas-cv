@@ -14,7 +14,7 @@
           <div class="w3-container">
             <p>
               <i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i
-              >Data Scientist
+              >Sales Marketing 
             </p>
             <p>
               <i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i
@@ -22,18 +22,18 @@
             </p>
             <p>
               <i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
-              <a href="mailto:Jumriyadi11@gmail.com">Jumriyadi11@gmail.com</a>
+              <a href="mailto:Jumriyadi11@gmail.com">bagasaryoputro68@gmail.com</a>
             </p>
             <p>
               <i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(+62)
-              85216859793
+              895375309534
             </p>
-            <p>
+            <!-- <p>
               <i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i
               ><a href="https://www.linkedin.com/in/muhjumriyadi/"
                 >https://www.linkedin.com/in/muhjumriyadi/</a
               >
-            </p>
+            </p> -->
             <hr />
 
             <p class="w3-large">
