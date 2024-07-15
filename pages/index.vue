@@ -8,7 +8,7 @@
           <div class="w3-display-container">
             <img src="/jumri.jpg" style="width: 100%" alt="Avatar" />
             <div class="w3-display-bottomleft w3-container w3-text-black">
-              <h2>Muh Jumri Yadi</h2>
+              <h2>bagas aryoputro</h2>
             </div>
           </div>
           <div class="w3-container">
