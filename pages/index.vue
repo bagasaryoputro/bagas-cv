@@ -116,7 +116,7 @@
             <ul>
               <li>Technology and Innovation are the Future</li>
               <li>6th Semester Computer Systems Student at Bung Karno University</li>
-              <li>Specializing in Data Science</li>
+              <li>Specializing in Sales Marketing</li>
               <li>Ready to Contribute to Challenging Tech Projects</li>
             </ul>
           </div>
@@ -128,18 +128,14 @@
           </h2>
           <div class="w3-container">
             <h5 class="w3-opacity"><b>Juni 2024</b></h5>
-            <p>Belajar Machine Learning untuk Pemula – Dicoding</p>
+            <p>Belajar menjual barang  logam mulia </p>
             <hr />
           </div>
           <div class="w3-container">
             <h5 class="w3-opacity"><b>Mei 2024</b></h5>
             <p>
-              Advanced Understanding of Basic Machine Learning and Data Science Using
-              Python: This program uqips me with the necessary skills to preproccess data,
-              build and evaluate machine learning models, and perform data analysis using
-              Python. Through a combination of theoretical learning and practial coding
-              exercises, I have develop a comprehensive skill set that allows me to
-              approach and solve data-drivem problems with confidence and efficiency.
+              menjual produk berbagai emas dari yang emas batangan 0,5gr sampai emas batangan 1000gr dan berbagai macam harga dari
+              harga 749.500-1.339.600.000
             </p>
             <hr />
           </div>
